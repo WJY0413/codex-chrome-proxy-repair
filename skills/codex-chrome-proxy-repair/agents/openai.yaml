@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Chrome Repair"
+  short_description: "Diagnose proxy inheritance and Windows permission path failures"
+  default_prompt: "Use $codex-chrome-proxy-repair to diagnose my Chrome connection, discover my effective proxy, and verify page reading and a reversible click."
